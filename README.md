@@ -1,5 +1,4 @@
-# da# Hi, I'm a Future Data Analyst 👋
-
+# Hi, I'm a Future Data Analyst 👋
 ## About Me
 I am a BCA student and an aspiring Data Analyst.
 I am learning how to analyse data and find useful insights.
